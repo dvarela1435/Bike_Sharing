@@ -1,0 +1,4 @@
+# files to not upload to github
+
+201908-citibike-tripdata.csv
+201908-citibike-tripdata-1.csv
