@@ -3,7 +3,7 @@
 Using Tableau as the main vehicle to convince investors that a bike-sharing program in Des Moines is a solid business proposal. The data used was from New York Bike Sharing during August 2019.
 ## Results: 
 
-The link to the Tableau story: https://public.tableau.com/app/profile/danny6811/viz/Citibike_Challenge_16530535841030/Story1?publish=yes
+The link to the Tableau story: [Bike Sharing Tableau Story](https://public.tableau.com/app/profile/danny6811/viz/Citibike_Challenge_16530535841030/Story1?publish=yes)
 
 The following shows the gender breakout during August 2019 in New York City.
 
